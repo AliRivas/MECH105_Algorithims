@@ -1,4 +1,4 @@
-# MECH105_Algorithims
+# MECH105_Algorithms
 All the MATLAB algorithms I made for my MECH 105 class during my Spring 2022 semester at Colorado State University
 The following algorithims include functions to solve for:
 
